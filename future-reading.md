@@ -5,3 +5,5 @@
 * The Bug by Ellen Ullman
 * Structure and Interpretation of Computer Programs
 * [Eloquent JavaScript](http://eloquentjavascript.net/04_data.html) 
+* Conquering the Command Line (google it)
+
