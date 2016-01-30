@@ -9,6 +9,9 @@ This is a place to stash notes and tidbets of things I learned today. They may b
 * That bugs are a part of programming and nobody talks about that at first, "like not brining up your medical history on a first date." (love that!)
 * That Bloomberg put the [code for the website](https://github.com/BloombergMedia/whatiscode) on GitHub!!
 
+**1/28/16:**
+* A really neat line that makes your cli prompt pretty and with a date: PS1="\n\[\e[0;37m\][\h] \e[0;35m\]\d\e[0m\]\n\[\e[0;31m\]\u\[\e[0;34m\] in \[\e[1;33m\]\w\[\e[m\]\[\e[0;31m\]\n\[\033[35m\]$\[\033[00m\] "
+
 **1/29/16**
 * I am (nearly) intentionally creating a merge conflict here -- looking forward to cleaning that up
 * It never works to create nested git repos -- I thought I just didn't know how to do it the right way. It turns out that the right way is to never, ever nest your git repos.
