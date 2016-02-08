@@ -16,3 +16,5 @@ This is a place to stash notes and tidbets of things I learned today. They may b
 * I am (nearly) intentionally creating a merge conflict here -- looking forward to cleaning that up
 * It never works to create nested git repos -- I thought I just didn't know how to do it the right way. It turns out that the right way is to never, ever nest your git repos.
 
+**2/7/16**
+* That I need to focus my efforts. Currently, I am spread across far too many domains and improvement efforts to really succeed in any of them. I'm trying to be sure to cover all of my bases and support, build and grow all areas of my life and my many facets of my professional life and I'm spread far too thin.
