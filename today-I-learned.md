@@ -18,3 +18,20 @@ This is a place to stash notes and tidbets of things I learned today. They may b
 
 **2/7/16**
 * That I need to focus my efforts. Currently, I am spread across far too many domains and improvement efforts to really succeed in any of them. I'm trying to be sure to cover all of my bases and support, build and grow all areas of my life and my many facets of my professional life and I'm spread far too thin.
+
+**2/8/16**
+* nifty little trick for pulling out the keys to use as numberical indexes
+* # Write a program that moves the information from the array in to the empty hash
+
+contact_data = [["joe@email.com", "123 Main st.", "555-123-4567"],
+                 ["sally@email.com", "404 Not Found Dr.", "123-234-3454"]]
+
+contacts = {"Joe Smith" => {}, "Sally Johnson" => {}} 
+
+contacts["Joe Smith"] = {email: contact_data[0][0], address: contact_data[0][1], phone: contact_data[0][2]}
+contacts["Sally Johnson"] = {email: contact_data[1][0], address: contact_data[1][1], phone: contact_data[1][2]}
+
+p contacts
+
+puts joe_email = contacts["Joe Smith"][:email]
+puts sally_num = contacts["Sally Johnson"][:phone]
