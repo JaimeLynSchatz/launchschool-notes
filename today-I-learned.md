@@ -1,5 +1,5 @@
 #Today I Learned
-This is a place to stash notes and tidbets of things I learned today. They may be long, they may be tiny bits. Some of these may evolve into blog posts, many will not.
+This is a place to stash notes and tidbits of things I learned today. They may be long, they may be tiny bits. Some of these may evolve into blog posts, many will not.
 
 **1/26/16:**
 * TIL that Node is simply (not exactly simply) the Chrome V8 JS engine separate fromt the browser. (from [What Is Code](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#grabbag)).
@@ -35,3 +35,8 @@ p contacts
 
 puts joe_email = contacts["Joe Smith"][:email]
 puts sally_num = contacts["Sally Johnson"][:phone]
+
+**2/13/16**
+Starting django on Mac:
+left off here: https://github.com/yyuu/pyenv/blob/master/README.md#homebrew-on-mac-os-x
+Gotta love environments!
