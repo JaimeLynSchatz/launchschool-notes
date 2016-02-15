@@ -40,3 +40,6 @@ puts sally_num = contacts["Sally Johnson"][:phone]
 Starting django on Mac:
 left off here: https://github.com/yyuu/pyenv/blob/master/README.md#homebrew-on-mac-os-x
 Gotta love environments!
+
+**2/14/16**
+New plan (perhaps belongs in the blog, but whatever. Weekdays, work through django tutorial on Surface. Weeknights and weekends, Ruby Ruby Ruby.
