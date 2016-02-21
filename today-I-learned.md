@@ -43,3 +43,6 @@ Gotta love environments!
 
 **2/14/16**
 New plan (perhaps belongs in the blog, but whatever. Weekdays, work through django tutorial on Surface. Weeknights and weekends, Ruby Ruby Ruby.
+
+**2/20/16**
+Going to break that plan a bit becuase I won the scholarship to Launch School. So it's going to be Launch School, Launch School, Launch School. With the help of GitHub, rvm and a little luck, I can keep everything in sync.
